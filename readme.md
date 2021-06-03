@@ -1,4 +1,4 @@
-### Experiments on Debiasing word embedding
+# Experiments on Debiasing word embedding
 
 The experiment contains debiasing methods including "neutralizing" and "equalizing" discussed by Tolga Bolukbasi et al. in the paper "Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings".
 
